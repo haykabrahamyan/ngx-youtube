@@ -132,7 +132,7 @@ funtion will return liked videos which are liked from authorized user
 
 Sorry, but this option is not possible for now 
 
-## Version - 1.0.2
+## Version - 1.0.3
 
 We are working harder to get all need functionlity in one module, so functionlity will be updated suddenly. 
 
