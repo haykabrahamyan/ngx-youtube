@@ -73,9 +73,11 @@ doSearch(keyword){
 
 #### auth()
 function to do Authorization 
-| parameters | type | Description |
-| --- | --- | --- |
-| `event` | required |  |
+
+| parameters | type | 
+| --- | --- | 
+| `event`| required |
+
 ```
 <button (click)="doLogin($event)">Authorize</button>
 .......
@@ -109,7 +111,9 @@ let YT_channel = this.YTS.getChannelByID(channel_ID,'snippet,statistics');
  let YT_video_detailed = this.YTS.getVideosByID(videoId,'snippet,statistics');
 ```
 #### getMostPopular()
+
 funtion will return most popular videos based on **region** and **categoryID**
+
 | parameters | type | Description |
 | --- | --- | --- |
 | `regionCode`| required | The region from where need to get most popular videos. example  **'AM'** |
@@ -117,7 +121,9 @@ funtion will return most popular videos based on **region** and **categoryID**
 | `part` | optional | The information of search result. example **'snippet'/'snippet,statistics'/'snippet,contentDetails,statistics'** |
 
 #### getAuthLiked()
+
 funtion will return liked videos which are liked from authorized user
+
 | parameters | type | Description |
 | --- | --- | --- |
 | `part` | optional | The information of search result. example **'snippet'/'snippet,statistics'/'snippet,contentDetails,statistics'** |
