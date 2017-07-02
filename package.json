@@ -1,0 +1,32 @@
+{
+  "name": "ngx-youtube",
+  "version": "1.0.2",
+  "description": "Youtube API for Angular2, using google oAuth2. Compatible with latest release of Anguler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devabrahamyan/ngx-youtube.git"
+  },
+  "keywords": [
+    "youtube",
+    "api",
+    "google",
+    "oauth",
+    "auth",
+    "gapi",
+    "angular2",
+    "angular 2",
+    "angularjs2",
+    "angualarjs 2",
+    "token"
+  ],
+  "author": "Hayk Abrahamyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devabrahamyan/ngx-youtube/issues"
+  },
+  "homepage": "https://github.com/devabrahamyan/ngx-youtube#readme"
+}
