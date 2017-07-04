@@ -1,6 +1,6 @@
 # ngx-youtube
 
-Youtube API for Angular2, using google oAuth2. Compatible with latest release of Anguler
+Youtube API for Angular2, using google oAuth2. Compatible with latest release of AngularJs
 
 ## Getting Started
 
@@ -41,13 +41,7 @@ imports: [
     ]
 })
 ```
-last thing is need to connect google api js to your index.html
-```
-<script async defer src="https://apis.google.com/js/api.js"
-      onload="this.onload=function(){};"
-      onreadystatechange="if (this.readyState === 'complete') this.onload()">
-</script>
-```
+
 ### How to use
 
 Now you can connect YT service to your every component
@@ -132,7 +126,7 @@ funtion will return liked videos which are liked from authorized user
 
 Sorry, but this option is not possible for now 
 
-## Version - 1.0.2
+## Version - 1.1.0
 
 We are working harder to get all need functionlity in one module, so functionlity will be updated suddenly. 
 

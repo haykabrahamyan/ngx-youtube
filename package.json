@@ -1,7 +1,7 @@
 {
   "name": "ngx-youtube",
-  "version": "1.0.2",
-  "description": "Youtube API for Angular2, using google oAuth2. Compatible with latest release of Anguler",
+  "version": "1.1.0",
+  "description": "Youtube API for Angular2, using google oAuth2. Compatible with latest release of Angular",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
