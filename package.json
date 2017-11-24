@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devabrahamyan/ngx-youtube.git"
+    "url": "git+https://github.com/haykabrahamyan/ngx-youtube.git"
   },
   "keywords": [
     "youtube",
@@ -26,7 +26,7 @@
   "author": "Hayk Abrahamyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devabrahamyan/ngx-youtube/issues"
+    "url": "https://github.com/haykabrahamyan/ngx-youtube/issues"
   },
-  "homepage": "https://github.com/devabrahamyan/ngx-youtube#readme"
+  "homepage": "https://github.com/haykabrahamyan/ngx-youtube#readme"
 }
