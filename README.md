@@ -132,7 +132,7 @@ We are working harder to get all need functionlity in one module, so functionlit
 
 ## Author
 
-* **Hayk Abrahamyan** - *Initial work* - [devabrahamyan](https://github.com/devabrahamyan)
+* **Hayk Abrahamyan** - *Initial work* - [haykabrahamyan](https://github.com/haykabrahamyan)
 
 
 ## License
